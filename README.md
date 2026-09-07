@@ -24,66 +24,59 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
-
 ## COMMAND AND OUTPUT
-<img width="611" height="102" alt="Screenshot 2026-05-09 110948" src="https://github.com/user-attachments/assets/e1727377-05b4-46f1-aad9-0e02fcb92ff2" />
+
+<img width="893" height="166" alt="img 1" src="https://github.com/user-attachments/assets/0fe6115b-f220-4d55-9910-7c04fc9383ae" />
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-<img width="607" height="90" alt="Screenshot 2026-05-09 111848" src="https://github.com/user-attachments/assets/df030169-848b-44ee-a5ca-7a29e2e46bf7" />
 
+<img width="877" height="122" alt="img 2" src="https://github.com/user-attachments/assets/c03560b3-0229-4fd9-98bf-bef4ee51758e" />
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-<img width="660" height="378" alt="Screenshot 2026-05-09 112117" src="https://github.com/user-attachments/assets/7f0c8e13-90ae-4387-add6-b4ff9d5246e5" />
 
-
+<img width="887" height="365" alt="img 3" src="https://github.com/user-attachments/assets/54746d4e-d585-4253-b9fc-36ec362ba7a0" />
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
+<img width="977" height="170" alt="img 4" src="https://github.com/user-attachments/assets/2d577224-308c-421e-93ac-336b771879ad" />
 
-<img width="789" height="182" alt="Screenshot 2026-05-09 112259" src="https://github.com/user-attachments/assets/62ce90c4-6ae5-43ce-a55f-90a7ec385588" />
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
-
-<img width="717" height="144" alt="Screenshot 2026-05-09 112337" src="https://github.com/user-attachments/assets/08931c69-3a7b-482e-bf6f-84540fdc01d0" />
+<img width="947" height="132" alt="img 5" src="https://github.com/user-attachments/assets/35f3089d-b706-4f3e-82d0-1e62a5c488dc" />
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
-
-
-<img width="590" height="223" alt="Screenshot 2026-05-09 112418" src="https://github.com/user-attachments/assets/091817af-3888-49f7-aa3c-103ea7752dc2" />
+<img width="857" height="50" alt="img 6" src="https://github.com/user-attachments/assets/9cd40069-fbb6-4617-8f97-5166fdc7b66d" />
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 
-
-<img width="590" height="223" alt="Screenshot 2026-05-09 112418" src="https://github.com/user-attachments/assets/346e051b-d3f1-4466-9aa0-7eb193f1665b" />
-
+<img width="825" height="182" alt="img 7" src="https://github.com/user-attachments/assets/4e446869-f683-4819-ad01-005e9faa08e3" />
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
-<img width="516" height="904" alt="Screenshot 2026-05-09 112536" src="https://github.com/user-attachments/assets/afb7d015-290a-43c9-a5be-b946784422c0" />
-
-
+<img width="468" height="608" alt="img 8" src="https://github.com/user-attachments/assets/af30242f-2f25-4f8e-bf3c-f446755d6397" />
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
 
-<img width="630" height="212" alt="Screenshot 2026-05-09 112625" src="https://github.com/user-attachments/assets/06f0a75e-11df-454a-a157-d635132099a0" />
+<img width="882" height="197" alt="img 9" src="https://github.com/user-attachments/assets/749f895e-d725-4073-9ee4-01c2e95c14ac" />
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -93,8 +86,8 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-<img width="467" height="98" alt="image" src="https://github.com/user-attachments/assets/ff8a8de3-f158-413e-9ddc-c6d8be5f0429" />
 
+<img width="673" height="76" alt="img 10" src="https://github.com/user-attachments/assets/d6dc9e95-b167-457f-87c2-3e03ce942a0a" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -109,8 +102,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-<img width="573" height="227" alt="image" src="https://github.com/user-attachments/assets/06bc4661-322e-404e-8e0a-763d92b58b7e" />
-
+<img width="767" height="230" alt="img 11" src="https://github.com/user-attachments/assets/414b2eb5-829f-41b8-8e00-3c28545336d4" />
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -120,9 +112,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-<img width="425" height="202" alt="image" src="https://github.com/user-attachments/assets/d3c31d21-ac8e-4a1e-a19c-1d0ab6924017" />
-
-
+<img width="767" height="230" alt="img 11" src="https://github.com/user-attachments/assets/6065c4c5-c671-4ce7-ad9d-cf24f557093a" />
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -133,7 +123,8 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-<img width="590" height="218" alt="image" src="https://github.com/user-attachments/assets/8a8e0da5-08f4-49d7-8adc-e7d889abf1b0" />
+
+<img width="767" height="230" alt="img 11" src="https://github.com/user-attachments/assets/f8941e92-ab7c-4a44-8ab3-fbb6dfd7f3d2" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -144,9 +135,9 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
-<img width="428" height="477" alt="image" src="https://github.com/user-attachments/assets/c835b142-e033-4d53-a640-b9ed9fefcb4c" />
 
-
+<img width="791" height="417" alt="img 14" src="https://github.com/user-attachments/assets/678bb930-7b77-45e7-83ff-289dc0dc8a7e" />
 
 # RESULT:
 The commands/batch files are executed successfully.
+
